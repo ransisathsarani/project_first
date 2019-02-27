@@ -1,0 +1,3 @@
+Create a new repo directory (“project_first”) inside your working directory (“git_remote”)  
+ 
+Create a text file (“project.txt”) and add some content into it 
